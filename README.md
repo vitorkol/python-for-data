@@ -22,9 +22,10 @@ A criação deste repositório, considerei trazer uma solução para pessoas que
 ### Introdução para executar o arquivo yaml
 - ❌ Não faça o download do projeto    ✅ Faça o fork utilizando a forma https ou ssh.
 - Customize o tempo e desenvolvimento usando WSL2 com Docker Engine - [Tutorial](https://github.com/vitorkol/wsl2-without-docker-desktop).
-- Instale o programa docker - *[docker](https://www.docker.com)*.
+- Se não usar o WSL2, você pode instalar o programa docker - *[docker](https://www.docker.com)*.
 - Use o editor de texto de sua preferência Gitbash or VScode para clonar o repositório via fork.
 - Navegue até a pasta raiz do projeto.
+- Renomeie a pasta env-template para env e configure as suas variáveis.
 - Execute o compando ```docker compose up -d```.
 - Executado o arquivo e criado o container no docker em seu naegador da web digite: <localhost:8080>.
 - Pronto, agora você tem o python rodando com Conda, Julia e Jupyter Notebook rodando em sua máquina pelo browser.
