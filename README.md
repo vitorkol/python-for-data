@@ -1,4 +1,4 @@
-# Python developer Training
+# Python For Data - Training
 
 Este repositório tem por objetivo trazer uma visão geral sobre o curso <b>[Python para Dados - Alura](https://cursos.alura.com.br/course/python-data-science-primeiros-passos)</b> em um nível báscio, ofertado pela Alura.<br />
 
